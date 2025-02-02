@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" height="40">
+  <!-- Background Circle -->
+  <circle cx="32" cy="32" r="30" fill="#f0f0f0" stroke="#000" stroke-width="2"/>
+  
+  <!-- Pause Icon -->
+  <rect x="18" y="16" width="8" height="32" fill="#000"/>
+  <rect x="38" y="16" width="8" height="32" fill="#000"/>
+</svg>
